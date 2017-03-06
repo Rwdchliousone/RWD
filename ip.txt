@@ -1,0 +1,4 @@
+192.168.62.250  booksales webcity evta
+laravel
+DNS
+192.168.62.250
